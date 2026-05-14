@@ -58,20 +58,7 @@ I am currently deepening my work in LLM systems, distributed backend design, and
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🔹 **AI-Enhanced Projects**
-- **AI Chat Assistant (RAG)** – LLMs + vector DB + embeddings  
-- **Generative AI Resume Analyzer** – AI-driven resume analysis tool  
-
-### 🔹 **Backend & Cloud Projects**
-- **Financial Microservices System** – Java, Spring Boot, Kafka, Docker, K8s  
-- **AWS Serverless Microservices** – Lambda, API Gateway, DynamoDB  
-- **React + Spring Boot Fullstack App** – Secure auth + dashboards  
+</p> 
 
 ---
 
