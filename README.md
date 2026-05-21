@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Saket Chinchalikar 👋</h1>
 
-<h3 align="center">Backend Engineer | Java • Spring Boot • Microservices • Cloud | AI & GenAI Enthusiast</h3>
+<h3 align="center">Software Engineer | Java • Python • Spring Boot • Microservices • Cloud | AI & GenAI Enthusiast</h3>
 
 ---
 
