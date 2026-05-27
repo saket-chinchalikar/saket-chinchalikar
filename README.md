@@ -30,10 +30,10 @@ I care about clear API contracts, observable systems, performance through cachin
 
 | Project | Stack | Status |
 |---|---|---|
-| [📄 RAG Document Q&A API](https://github.com/saket-chinchalikar/rag-document-qa) | Java · Spring Boot · Pinecone · GPT-4o · Docker | 🟡 In Progress |
-| [📊 LLM Cost & Latency Benchmarker](https://github.com/saket-chinchalikar/llm-benchmarker) | Python · FastAPI · OpenAI · Anthropic · Groq | 🟡 In Progress |
 | [🛡️ Smart API Rate Limiter](https://github.com/saket-chinchalikar/api-rate-limiter) | Java · Spring Boot · Redis · Bucket4j · Spring AOP | 🟡 In Progress |
+| [📊 LLM Cost & Latency Benchmarker](https://github.com/saket-chinchalikar/llm-benchmarker) | Python · FastAPI · OpenAI · Anthropic · Groq | 🟡 In Progress |
 | [🤖 AI Code Review GitHub Bot](https://github.com/saket-chinchalikar/ai-code-reviewer) | Java · Spring Boot · GitHub API · GPT-4o · WebClient | 🟡 In Progress |
+| [📄 RAG Document Q&A API](https://github.com/saket-chinchalikar/rag-document-qa) | Java · Spring Boot · Pinecone · GPT-4o · Docker | 🟡 In Progress
 
 ---
 
