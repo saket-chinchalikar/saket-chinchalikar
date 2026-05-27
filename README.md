@@ -1,74 +1,88 @@
-<h1 align="center">Hi, I'm Saket Chinchalikar 👋</h1>
+# Hi, I'm Saket Chinchalikar 👋
 
-<h3 align="center">Software Engineer | Java • Python • Spring Boot • Microservices • Cloud | AI & GenAI Enthusiast</h3>
+### Backend Engineer · Java · Spring Boot · Microservices · Cloud · AI & GenAI
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saketchinchalikar/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saketfolio.lovable.app)
+[![Profile Views](https://komarev.com/ghpvc/?username=saket-chinchalikar&style=for-the-badge&color=6DB33F)](https://github.com/saket-chinchalikar)
 
 ---
 
 ## 🚀 About Me
-I am a backend engineer focused on building production grade systems using Java and Spring Boot, with hands on experience in cloud native architectures and AI integrated workflows.
 
-I work on designing and implementing microservices that handle real world constraints such as latency, fault tolerance, and scalability. My recent work includes building LLM powered systems using retrieval augmented generation, vector databases, and prompt orchestration, with emphasis on response quality and cost efficiency.
+I'm a backend engineer focused on building production-grade systems using Java and Spring Boot, with hands-on experience in cloud-native architectures and AI-integrated workflows.
 
-Core engineering focus:
+I design and implement microservices that handle real-world constraints — latency, fault tolerance, and scalability. My recent work includes building LLM-powered systems using retrieval-augmented generation, vector databases, and prompt orchestration, with emphasis on response quality and cost efficiency.
 
-Designing RESTful microservices with Spring Boot, including authentication, rate limiting, and inter service communication
-Building RAG pipelines with embeddings, vector search, and evaluation loops
-Developing cloud native systems on AWS using Lambda, ECS, and DynamoDB
-Implementing containerized deployments with Docker and orchestration basics with Kubernetes
-Setting up CI CD pipelines using GitHub Actions
+**What I focus on when building:**
 
-What I care about when building systems:
+- Designing RESTful microservices with Spring Boot — auth, rate limiting, and inter-service communication
+- Building RAG pipelines with embeddings, vector search, and evaluation loops
+- Developing cloud-native systems on AWS (Lambda, ECS, DynamoDB)
+- Containerised deployments with Docker and Kubernetes orchestration basics
+- CI/CD pipelines with GitHub Actions
 
-Clear API contracts and maintainable service boundaries
-Observability through logging and metrics
-Performance optimization using caching and async processing
-Practical tradeoffs between system complexity, cost, and scalability
+I care about clear API contracts, observable systems, performance through caching and async processing, and making sensible tradeoffs between complexity, cost, and scale.
 
-I am currently deepening my work in LLM systems, distributed backend design, and production ready AI integrations.
+---
 
-📫 **How to reach me:**  
-**LinkedIn:** https://www.linkedin.com/in/saketchinchalikar/
+## 🚧 Currently Building
+
+| Project | Stack | Status |
+|---|---|---|
+| [📄 RAG Document Q&A API](https://github.com/saket-chinchalikar/rag-document-qa) | Java · Spring Boot · Pinecone · GPT-4o · Docker | 🟡 In Progress |
+| [📊 LLM Cost & Latency Benchmarker](https://github.com/saket-chinchalikar/llm-benchmarker) | Python · FastAPI · OpenAI · Anthropic · Groq | 🟡 In Progress |
+| [🛡️ Smart API Rate Limiter](https://github.com/saket-chinchalikar/api-rate-limiter) | Java · Spring Boot · Redis · Bucket4j · Spring AOP | 🟡 In Progress |
+| [🤖 AI Code Review GitHub Bot](https://github.com/saket-chinchalikar/ai-code-reviewer) | Java · Spring Boot · GitHub API · GPT-4o · WebClient | 🟡 In Progress |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Backend**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+### Backend
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saket-chinchalikar)
 
-### **AI / ML**
-<p>
-  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=OpenAI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+### AI / LLM
+[![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=OpenAI&logoColor=white)](https://openai.com)
+[![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6F00?style=for-the-badge&logo=google&logoColor=white)](https://github.com/saket-chinchalikar)
+[![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=google&logoColor=white)](https://github.com/saket-chinchalikar)
+[![Vector DB](https://img.shields.io/badge/Vector_DB-000000?style=for-the-badge&logo=pinecone&logoColor=white)](https://www.pinecone.io)
 
-### **Frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
+### Cloud & DevOps
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
-### **Cloud & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p> 
+### Data & Messaging
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org)
 
 ---
 
-## 🌐 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/saketchinchalikar/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saket-chinchalikar&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="Saket's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saket-chinchalikar&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="38%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saket-chinchalikar&theme=default&hide_border=true" alt="GitHub Streak" width="55%" />
 </p>
 
 ---
 
-⭐ **Thanks for visiting! Let’s build something amazing together.**
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saketchinchalikar/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://saketfolio.lovable.app)
+
+---
+
+<p align="center">⭐ If something here helped you, consider giving it a star.</p>
