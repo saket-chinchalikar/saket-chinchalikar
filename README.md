@@ -1,6 +1,6 @@
 # Hi, I'm Saket Chinchalikar 👋
 
-### Backend Engineer · Java · Spring Boot · Microservices · Cloud · AI & GenAI
+### Software Engineer · Java · Spring Boot · React · Microservices · Cloud · AI & GenAI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saketchinchalikar/)
 <br><br>
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a backend engineer focused on building production-grade systems using Java and Spring Boot, with hands-on experience in cloud-native architectures and AI-integrated workflows.
+I'm a software engineer focused on building production-grade systems using Java, Python and Spring Boot, with hands-on experience in cloud-native architectures and AI-integrated workflows.
 
 I design and implement microservices that handle real-world constraints — latency, fault tolerance, and scalability. My recent work includes building LLM-powered systems using retrieval-augmented generation, vector databases, and prompt orchestration, with emphasis on response quality and cost efficiency.
 
