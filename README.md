@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saketchinchalikar/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saketfolio.lovable.app)
-[![Profile Views](https://komarev.com/ghpvc/?username=saket-chinchalikar&style=for-the-badge&color=6DB33F)](https://github.com/saket-chinchalikar)
 
 ---
 
