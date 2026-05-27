@@ -73,7 +73,7 @@ I care about clear API contracts, observable systems, performance through cachin
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saket-chinchalikar&theme=default&hide_border=true" alt="GitHub Streak" width="55%" />
+  <img src="https://streak-stats.demolab.com/?user=saket-chinchalikar&theme=default&hide_border=true" />
 </p>
 
 ---
