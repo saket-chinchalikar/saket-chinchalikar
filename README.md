@@ -68,8 +68,8 @@ I care about clear API contracts, observable systems, performance through cachin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saket-chinchalikar&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="Saket's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saket-chinchalikar&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="38%" />
+  <img src="https://github-readme-stats-three-tau-95.vercel.app/api?username=saket-chinchalikar&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="Saket's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats-three-tau-95.vercel.app/api/top-langs/?username=saket-chinchalikar&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="38%" />
 </p>
 
 <p align="center">
